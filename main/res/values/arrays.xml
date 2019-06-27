@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="professions">
+        <item>Engineer</item>
+        <item>Doctor</item>
+        <item>Teacher</item>
+        <item>Lawyer</item>
+        <item>Lecturer</item>
+        <item>Pilot</item>
+        <item>Driver</item>
+        <item>Accountant</item>
+        <item>Printer</item>
+        <item>Graphics Designer</item>
+        <item>Marketer</item>
+        <item>IT Expert</item>
+        <item>Student</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="work_type">
+        <item>Fulltime</item>
+        <item>Part-time</item>
+        <item>Internship</item>
+    </string-array>
+
+    <string-array name="document_type">
+        <item>Curriculum Vitae</item>
+        <item>Recommendation Letter</item>
+        <item>ID</item>
+        <item>Passport</item>
+    </string-array>
+        
+</resources>
